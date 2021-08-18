@@ -2,10 +2,10 @@
 
 ## Associate Profit Splitter
 
-Link to local blockchain.
+## Link to local blockchain.
 <img width="299" alt="Linked to the Local Blockchain" src="https://user-images.githubusercontent.com/8030533/129953057-d58f2dd3-9e92-46ad-83f9-cff2285f6ffc.png">
 
-Defined the three associates via three different ganache addresses.
+## Defined the three associates via three different ganache addresses.
 <img width="289" alt="Splitting Accounts" src="https://user-images.githubusercontent.com/8030533/129952730-deef7a21-d77b-4d85-9ccb-692f50d4d661.png">
 
 ## Deployed the contract.
